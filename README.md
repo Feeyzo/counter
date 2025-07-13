@@ -1,1 +1,1 @@
-# counter
+This is a simple React counter application built using functional components and the useState hook. It allows users to increment and decrement a counter, with logic to prevent going below zero and a warning message when a maximum limit is reached.
